@@ -110,7 +110,7 @@ async def serverinfo(ctx):
 # -------------------------
 # 🚀 START BOT (RAILWAY SAFE)
 # -------------------------
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("MTUwNTg3OTA3MTEyNzUwMjkyOQ.G9vbiZ.pQ9EWeTKtXNEktWCZilPQf0WsXiQm4KmBWAsi8")
 
 if __name__ == "__main__":
     bot.run(TOKEN)
